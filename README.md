@@ -1,4 +1,4 @@
-# SmartBusinessPro-Gesti-n-de-Productos
+# SmartBusinessPro-Gestión de Productos 
 
 Una empresa comercial necesita desarrollar un sistema de inventario que permita consultar los productos registrados en SQL Server. Se deberá preparar la estructura de acceso a datos utilizando Entity Framework Core, de modo que la aplicación pueda conectarse a la base de datos sin repetir la configuración en cada formulario.
 
